@@ -31,6 +31,6 @@ My research is in the applications of Data Science in the fields: Analytical Che
 ### Scientific profile
 Scientific publication [profile](https://www-webofscience-com.ez.sun.ac.za/wos/woscc/citation-report/d8a08e1f-cf07-48b2-ae3e-e15be173c223-a0c88989) in the Web of Science (WoS, August 2023).
 <p>
-	<img height="400" src="./assets/mafata_wos.jpg" hspace="100" >
+<img height="400" align="right" src="./assets/mafata_wos.jpg" hspace="100" >
 
 </p>
