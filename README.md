@@ -63,7 +63,7 @@ __Multivariate analysis__
 
 __Data science__
 
-<img height="250" src="./assets/network_graph.jpeg" width="450">
+<img height="250" src="./assets/network_graph.jpeg" width="420">
 
 <figcaption text-size-adjust: none>
 	Analysing data of various structures usign SQL, R or Python. Assessing relationships and patterns using fuzzy techniqeus and network analysis. Read more here.
