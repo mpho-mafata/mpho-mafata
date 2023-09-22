@@ -24,7 +24,7 @@ __Chromatographic analysis__
 <img height="200" src="./assets/tic_overlay.jpg" hspace="20">
 
 <figcaption text-size-adjust: none>
-	Unboxing the various structures and complexity in spectral data sets. By far the most interesting datasets out there.
+	Unboxing the various structures and complexity in spectral data sets. By far the most interesting datasets out there. Read more here.
 </figcaption>
 
 </td>
@@ -37,7 +37,7 @@ __Sensory analysis__
 <img height="200" src="./assets/sensory.png" width="500">
 
 <figcaption text-size-adjust: none>
-	Focused on the specifics of sensory and consumer data, their structures, and features.
+	Focused on the specifics of sensory and consumer data, their structures, and features. Read more here.
 </figcaption>
 	
 </td>
@@ -54,7 +54,7 @@ __Multivariate analysis__
 <img height="300" src="./assets/MFA_biplot.png" hspace="50">
 
 <figcaption text-size-adjust: none>
-	Analysing data using multivariate toolboxes. Focused on visualization using combinations of graphs.
+	Analysing data using multivariate toolboxes. Focused on visualization using combinations of graphs. Read more here.
 </figcaption>
 	
 </td>
@@ -66,7 +66,7 @@ __Data science__
 <img height="250" src="./assets/network_graph.jpeg" hspace="20">
 
 <figcaption text-size-adjust: none>
-	Analysing data of various structures usign SQL, R or Python. Assessing relationships and patterns using fuzzy techniqeus and network analysis.
+	Analysing data of various structures usign SQL, R or Python. Assessing relationships and patterns using fuzzy techniqeus and network analysis. Read more here.
 </figcaption>
   
 </td>
