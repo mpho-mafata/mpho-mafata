@@ -21,7 +21,7 @@ My research is in the applications of Data Science in the fields: Analytical Che
 	
 __Chromatographic analysis__
 
-<img height="200" src="./assets/tic_overlay.jpg" hspace="20">
+<img height="200" src="./assets/tic_overlay.jpg" width="450">
 
 <figcaption text-size-adjust: none>
 	Unboxing the various structures and complexity in spectral data sets. By far the most interesting datasets out there. Read more here.
@@ -34,7 +34,7 @@ __Chromatographic analysis__
 	
 __Sensory analysis__
 
-<img height="200" src="./assets/sensory.png" width="500">
+<img height="200" src="./assets/sensory.png" width="450">
 
 <figcaption text-size-adjust: none>
 	Focused on the specifics of sensory and consumer data, their structures, and features. Read more here.
@@ -51,7 +51,7 @@ __Sensory analysis__
 __Multivariate analysis__
 
 
-<img height="300" src="./assets/MFA_biplot.png" hspace="50">
+<img height="300" src="./assets/MFA_biplot.png" width="450">
 
 <figcaption text-size-adjust: none>
 	Analysing data using multivariate toolboxes. Focused on visualization using combinations of graphs. Read more here.
@@ -63,7 +63,7 @@ __Multivariate analysis__
 
 __Data science__
 
-<img height="250" src="./assets/network_graph.jpeg" hspace="20">
+<img height="250" src="./assets/network_graph.jpeg" width="450">
 
 <figcaption text-size-adjust: none>
 	Analysing data of various structures usign SQL, R or Python. Assessing relationships and patterns using fuzzy techniqeus and network analysis. Read more here.
