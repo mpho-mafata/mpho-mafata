@@ -51,7 +51,7 @@ __Sensory analysis__
 __Multivariate analysis__
 
 
-<img height="300" src="./assets/MFA_biplot.png" width="450">
+<img height="300" src="./assets/MFA_biplot.png" width="400">
 
 <figcaption text-size-adjust: none>
 	Analysing data using multivariate toolboxes. Focused on visualization using combinations of graphs. Read more here.
