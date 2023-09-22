@@ -12,6 +12,68 @@ Previously, I was a joint post-doctoral fellow at the South African Grape and Wi
 I have practiced technical skills in separation sciences (chromatography) and detection (mass spectrometry, UV-vis and fluorescence spectroscopy), wet lab/preparatory chemistry (sample preparation of organic compounds and natural products), oenology (winemaking and sensory analysis), and multivariate data analysis (MDS, MCA, PCA, MFA). 
 My research is in the applications of Data Science in the fields: Analytical Chemistry, Biotechnology, Sensory evaluation, and Oenology.  
 
+## Subject Areas
+
+<table>
+ <tr>
+	 
+<td>
+	
+__Chromatographic analysis__
+
+<img height="200" src="./assets/tic_overlay.jpg" hspace="20">
+
+<figcaption text-size-adjust: none>
+	Unboxing the various structures and complexity in spectral data sets. By far the most interesting datasets out there.
+</figcaption>
+
+</td>
+
+
+<td>
+	
+__Sensory analysis__
+
+<img height="200" src="./assets/sensory.png" width="500">
+
+<figcaption text-size-adjust: none>
+	Focused on the specifics of sensory and consumer data, their structures, and features.
+</figcaption>
+	
+</td>
+</tr>
+
+ <tr>
+	 
+<td>
+
+
+__Multivariate analysis__
+
+
+<img height="300" src="./assets/MFA_biplot.png" hspace="50">
+
+<figcaption text-size-adjust: none>
+	Analysing data using multivariate toolboxes. Focused on visualization using combinations of graphs.
+</figcaption>
+	
+</td>
+
+<td>
+
+__Data science__
+
+<img height="250" src="./assets/network_graph.jpeg" hspace="20">
+
+<figcaption text-size-adjust: none>
+	Analysing data of various structures usign SQL, R or Python. Assessing relationships and patterns using fuzzy techniqeus and network analysis.
+</figcaption>
+  
+</td>
+
+ </tr>
+</table>
+
 ## Other useful tools I use
 ### Atlassian agile project management tools
 <p>
