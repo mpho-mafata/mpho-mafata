@@ -24,7 +24,7 @@ __Chromatographic analysis__
 <img height="200" src="./assets/tic_overlay.jpg" width="450">
 
 <figcaption text-size-adjust: none>
-	Unboxing the various structures and complexity in spectral data sets. By far the most interesting datasets out there. Read more here.
+	Unboxing the various structures and complexity in spectral data sets. By far the most interesting datasets out there. <a href ="https://github.com/mpho-mafata/Chromatographic-data"> Read more here </a>
 </figcaption>
 
 </td>
@@ -66,7 +66,8 @@ __Data science__
 <img height="250" src="./assets/network_graph.jpeg" width="420">
 
 <figcaption text-size-adjust: none>
-	Analysing data of various structures usign SQL, R or Python. Assessing relationships and patterns using fuzzy techniqeus and network analysis. Read more here.
+	Analysing data of various structures using SQL, R or Python. Assessing relationships and patterns using fuzzy techniques and network analysis. <a href ="https://github.com/mpho-mafata/Network-analysis"> Read more here </a>
+	
 </figcaption>
   
 </td>
