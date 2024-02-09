@@ -85,10 +85,12 @@ __Data science__
 
 ### other useful tools
 <p>
-		<img height="30" src="./assets/SIMCA.jpg" hspace="5" >
-		<img height="30" src="./assets/xlstat.png" hspace="5" >
-		<img height="30" src="./assets/jetbrains-original.svg" hspace="5" >
-		<img height="30" src="./assets/statistica.png" hspace="5" >
+		<img height="50" src="./assets/SIMCA.jpg" hspace="5" >
+		<img height="50" src="./assets/xlstat.png" hspace="5" >
+		<img height="50" src="./assets/jetbrains-original.svg" hspace="5" >
+		<img height="50" src="./assets/statistica.png" hspace="5" >
+		<img height="70" src="./assets/looker-by-google-cloud.jpeg" hspace="5" >
+		<img height="70" src="./assets/google-bigquery.jpeg" hspace="5" >
 </p>
 
 ### Scientific profile
