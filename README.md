@@ -37,7 +37,7 @@ __Sensory analysis__
 <img height="200" src="./assets/sensory.png" width="450">
 
 <figcaption text-size-adjust: none>
-	Focused on the specifics of sensory and consumer data, their structures, and features. Read more here.
+	Focused on the specifics of sensory and consumer data, their structures, and features. <a href ="https://github.com/mpho-mafata/Network-analysis-of-sensory-attributes"> Read more here </a>.
 </figcaption>
 	
 </td>
@@ -94,4 +94,7 @@ __Data science__
 </p>
 
 ### Scientific profile
-Scientific publication [profile](https://www.webofscience.com/wos/woscc/citation-report/d8a08e1f-cf07-48b2-ae3e-e15be173c223-a0c88989) in the Web of Science (WoS, August 2023).
+<img height="400" src="./assets/ResGate.png" hspace="5" >
+ResearchGate scientific output neatly presented at https://researchgate.net/profile/Mpho-Mafata/research/ .
+
+My scientific publication list at https://mphomafata.wordpress.com/2023/12/19/my-list-of-publications/ .
