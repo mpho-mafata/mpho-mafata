@@ -24,7 +24,7 @@ __Chromatographic analysis__
 <img height="200" src="./assets/tic_overlay.jpg" width="450">
 
 <figcaption text-size-adjust: none>
-	Unboxing the various structures and complexity in spectral data sets. By far the most interesting datasets out there. <a href ="https://github.com/mpho-mafata/Chromatographic-data"> Read more here </a>
+	Unboxing the various structures and complexity in spectral data sets. <a href ="https://github.com/mpho-mafata/Chromatographic-data"> Read more here </a>
 </figcaption>
 
 </td>
@@ -37,7 +37,7 @@ __Sensory analysis__
 <img height="200" src="./assets/sensory.png" width="450">
 
 <figcaption text-size-adjust: none>
-	Focused on the specifics of sensory and consumer data, their structures, and features. <a href ="https://github.com/mpho-mafata/Network-analysis-of-sensory-attributes"> Read more here </a>.
+	Focused on the specifics of sensory and consumer data, their structures, and features. <a href ="https://github.com/mpho-mafata/Network-analysis-of-sensory-attributes"> Read more here </a>
 </figcaption>
 	
 </td>
@@ -54,7 +54,7 @@ __Multivariate analysis__
 <img height="300" src="./assets/MFA_biplot.png" width="400">
 
 <figcaption text-size-adjust: none>
-	Analysing data using multivariate toolboxes. Focused on visualization using combinations of graphs. Read more here.
+	Analysing data using multivariate toolboxes. Focused on visualization using combinations of graphs. <a href ="https://github.com/mpho-mafata/hplc_scanning"> Read more here </a>
 </figcaption>
 	
 </td>
