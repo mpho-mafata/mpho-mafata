@@ -89,7 +89,7 @@ __Data science__
 		<img height="50" src="./assets/google-bigquery.jpeg" hspace="5" >
 </p>
 
-### Scientific profile
+## Scientific profile
 <img height="400" src="./assets/ResGate.png" hspace="5" >
 ResearchGate scientific output neatly presented at https://researchgate.net/profile/Mpho-Mafata/research/ .
 
