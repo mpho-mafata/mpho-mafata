@@ -2,6 +2,7 @@
  		<img height="100" src="./assets/postgresql-original.svg" hspace="20" >
  		<img height="100" src="./assets/python-original.svg" hspace="20" >
  		<img height="100" src="./assets/r-original.svg" hspace="20" >
+		<img height="100" src="./assets/jupyter.png" hspace="20" >
 </p>
 
 # About me
