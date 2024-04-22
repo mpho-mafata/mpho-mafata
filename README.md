@@ -83,11 +83,20 @@ __Data science__
 		<img height="50" src="./assets/xlstat.png" hspace="5" >
 		<img height="50" src="./assets/jetbrains-original.svg" hspace="5" >
 		<img height="50" src="./assets/statistica.png" hspace="5" >
-		<img height="30" src="./assets/confluence-original.svg" hspace="5" >
-		<img height="30" src="./assets/jira-original.svg" hspace="5" >
- 		<img height="30" src="./assets/bitbucket-original.svg" hspace="5" >
-		<img height="50" src="./assets/looker-by-google-cloud.jpeg" hspace="5" >
-		<img height="50" src="./assets/google-bigquery.jpeg" hspace="5" >
+		<img height="30" src="./assets/factominer.jpeg" hspace="5" >
+		<img height="40" src="./assets/confluence-original.svg" hspace="5" >
+		<img height="40" src="./assets/jira-original.svg" hspace="5" >
+ 		<img height="40" src="./assets/bitbucket-original.svg" hspace="5" >
+		<img height="50" src="./assets/bioconductorlogo.jpeg" hspace="5" >
+		<img height="70" src="./assets/openrefine.jpg" hspace="5" >
+		<img height="70" src="./assets/Tableau.svg" hspace="5" >
+		<img height="70" src="./assets/looker-by-google-cloud.jpeg" hspace="5" >
+		<img height="70" src="./assets/google-bigquery.jpeg" hspace="5" >
+		<img height="50" src="./assets/powerbi-original.svg" hspace="5" >
+		<img height="50" src="./assets/pandas-python.png" hspace="5" >
+		
+ 		
+	
 </p>
 
 ## Scientific profile
