@@ -99,8 +99,15 @@ __Data science__
 	
 </p>
 
-## Scientific profile
+## Scientific profiles
+
 <img height="400" src="./assets/ResGate.png" hspace="5" >
+
 ResearchGate scientific output neatly presented at https://researchgate.net/profile/Mpho-Mafata/research/ .
 
 My scientific publication list at https://mphomafata.wordpress.com/2023/12/19/my-list-of-publications/ .
+
+## Getting in touch
+
+For collaborations and conversation email  mafata@sun.ac.za 
+Read more about my research interest at https://mphomafata.wordpress.com/ 
