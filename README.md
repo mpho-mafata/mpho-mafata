@@ -100,8 +100,7 @@ __Data science__
 </p>
 
 ## Scientific profiles
-
-<img height="400" src="./assets/ResGate.png" hspace="5" >
+I have  some old and new poster list presented at conferences, neatly listed here: https://mphomafata.wordpress.com/category/posters/
 
 ResearchGate scientific output neatly presented at https://researchgate.net/profile/Mpho-Mafata/research/ .
 
