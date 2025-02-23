@@ -110,8 +110,8 @@ ResearchGate scientific output neatly presented at https://researchgate.net/prof
 My scientific publication list at https://mphomafata.wordpress.com/2023/12/19/my-list-of-publications/ .
 
 ## Affiliations
-
-* 2022 - present | [Center for Research on Evaluation Science and Technology (CREST](https://www0.sun.ac.za/crest/), Stellenbosch University, South Africa
+* 2025 - present | [Universitätsklinikum Tübingen, CoFacility for Metabolomics](https://www.linkedin.com/company/cofmetabolomics/), Tübingen, Germany
+* 2022 - 2025 | [Center for Research on Evaluation Science and Technology (CREST)](https://www0.sun.ac.za/crest/), Stellenbosch University, South Africa
 * 2021 - 2022 | [South African Grape and Wine Research Institute (SAGWRI](https://sagwri.sun.ac.za/), Stellenbosch University, South Africa
 * 2020 - 2022 | [Language Centre](https://languagecentre.sun.ac.za/writing-lab/), Stellenbosch University, South Africa
 * 2014 - 2022| [School for Data Science and Computational Thinking](https://www.sun.ac.za/english/data-science-and-computational-thinking), Stellenbosch University, South Africa
