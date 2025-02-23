@@ -114,12 +114,12 @@ My scientific publication list at https://mphomafata.wordpress.com/2023/12/19/my
 * 2022 - 2025 | [Center for Research on Evaluation Science and Technology (CREST)](https://www0.sun.ac.za/crest/), Stellenbosch University, South Africa
 * 2021 - 2022 | [South African Grape and Wine Research Institute (SAGWRI](https://sagwri.sun.ac.za/), Stellenbosch University, South Africa
 * 2020 - 2022 | [Language Centre](https://languagecentre.sun.ac.za/writing-lab/), Stellenbosch University, South Africa
-* 2014 - 2022| [School for Data Science and Computational Thinking](https://www.sun.ac.za/english/data-science-and-computational-thinking), Stellenbosch University, South Africa
+* 2014 - 2022 | [School for Data Science and Computational Thinking](https://www.sun.ac.za/english/data-science-and-computational-thinking), Stellenbosch University, South Africa
 * 2014 - 2017 | [Agricultural Research Council](https://www.arc.agric.za/arc-infruitec-nietvoorbij/Pages/ARC-InfrNietv-Homepage.aspx), Nietvoorbij, South Africa
 * 2009 - 2013 | [Department of Chemistry](https://science.uct.ac.za/department-chemistry), Univesity of Caoe Town, South Africa
 
 ## Getting in touch
 
-For collaborations and conversations email  mafata@sun.ac.za 
+For collaborations and conversations email  mpho.mafata@outlook.com 
 <br clear="left"/>
 Read more about my research interests at https://mphomafata.wordpress.com/ 
